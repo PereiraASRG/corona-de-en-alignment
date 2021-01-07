@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Entwicklung und breite Nutzung effektiver und sicherer COVID-19-Impfstoffe wird als realistische Option angesehen, die aktuelle Pandemie zu einem Ende zu bringen bzw. SARS-CoV-2-Infektionen langfristig zu kontrollieren.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The development and widespread use of safe and effective Covid-19 vaccines is seen as a realistic option for ending the current pandemic and controlling SARS-CoV-2 infection rates in the longer term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Impfen ermöglicht es, eine Immunität in weiten Teilen der Bevölkerung zu erreichen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Vaccination enables immunity to be achieved in large parts of the population.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Damit soll sowohl einer Ausbreitung des Virus begegnet werden als auch mögliche gesundheitliche Folgen einer Erkrankung vermindert werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The aim is to counter the spread of the virus and reduce the potential healthrelated consequences of Covid-19 infections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Gleichzeitig ist die Entwicklung eines neuen Impfstoffes herausfordernd und kann viele Monate bis Jahre in Anspruch nehmen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Developing a new vaccine is, however, challenging and can take months or even years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zielvorgabe ist die schnellstmögliche Bereitstellung von wirksamen und sicheren Impfstoffen in einer ausreichenden Menge.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The objective is to provide safe and effective vaccines as soon as possible and in sufficient quantities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mehr als 200 verschiedene, teils auf neuartigen Impfstoff-Plattformen basierende COVID19-Impfstoffkandidaten befinden sich aktuell in der Entwicklung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>More than 200 different Covid-19 vaccine candidates, some on the basis of novel vaccine platforms, are currently being developed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Derzeit ist noch unklar, welche dieser Kandidaten erfolgreich die Entwicklung im Rahmen präklinischer und klinischer Prüfungen bis zur Zulassung bestehen und zu welchem Zeitpunkt diese Impfstoffe dann in ausreichenden Mengen für einen breiten Einsatz in der Bevölkerung zur Verfügung stehen werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Yet, it remains unclear as to which of these candidates will successfully pass preclinical and clinical trials all the way through to approval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Im Juli 2020 wurden erste Phase-3-Studien zum Nachweis der Wirksamkeit und Sicherheit mit verschiedenen Impfstoffkandidaten genehmigt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It furthermore remains unclear when these vaccines will be available in sufficient quantities to enable their broad public use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für zwei bis drei Impfstoff-Entwicklungen wurde die Einreichung eines Zulassungsantrags bei der Europäischen Arzneimittelagentur noch in diesem Jahr angekündigt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The first Phase 3 trials to demonstrate efficacy and safety with different vaccine candidates were approved in July 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Bund setzt sich aktiv für die Beschaffung von Impfstoffen ein, um einen verlässlichen Impfstoff in ausreichender Menge zur Verfügung stellen zu können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It has been announced that approval applications for two or three vaccine developments will be submitted to the European Medicines Agency later this year.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Grundsätzlich wird angestrebt, mögliche Impfstoffe nach Zulassung der gesamten Bevölkerung zugänglich zu machen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The Federal Government of Germany is actively engaged in the procurement of vaccines to be able to provide sufficient quantities of a reliable vaccine with the ultimate aim to offer them the entire population once they have been approved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zu Beginn werden jedoch vermutlich limitierte Mengen von verschiedenen Impfstoffen zur Verfügung stehen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>To start with, however, it is likely that only limited quantities of different vaccines will be available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Daher ist bei der Impfempfehlung durch die Ständige Impfkommission (STIKO) eine Priorisierung von vorrangig zu impfenden Personengruppen erforderlich.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As a result, in its vaccination recommendations, the Standing Committee on Vaccination at the Robert Koch Institute (STIKO) calls for the prioritisation of specific population groups who should be vaccinated first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aufgrund der initialen Priorisierung von Zielgruppen, der begrenzten Anzahl an Impfstoffdosen, ggf. besonderen Produkteigenschaften (z. B. Lagerungs- und Transportbedingungen, Abfüllung des Impfstoffs in Mehrdosenbehältnissen) ist in einer ersten Phase die Durchführung der Impfungen in zentralen Impfzentren, ggf. mit mobilen Teams sinnvoll.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Given the initial prioritisation of target groups, the limited number of vaccine doses and the potentially challenging product properties of certain vaccines (e.g. storage and transport conditions, filling of the vaccine into multi-dose containers), it makes sense in a first phase to conduct the vaccinations in central vaccination centres supported by mobile teams.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Sobald ausreichende Impfstoffmengen zur Verfügung stehen, wird angestrebt, die Impfaktivitäten in das Regelsystem übergehen zu lassen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As soon as sufficient quantities of a vaccine are available, the aim is to transfer vaccination activities to the regular healthcare system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Um eine erfolgreiche und sichere Umsetzung der COVID-19-Impfstrategie zu gewährleisten, bedarf es aufgrund der Pandemie-Situation, Verwendung neuerImpfstoff-Plattformtechnologien, einer hohen Erwartungshaltung in der Bevölkerung und der Tatsache, dass vermutlich mehrere Impfstoffe mit unterschiedlichen Produkteigenschaften gleichzeitig zum Einsatz kommen werden, einer engmaschigen kommunikativen und wissenschaftlichen Begleitung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In light of the pandemic situation, the use of novel vaccine platform technologies, high public expectations and the fact that several vaccines with different product properties will no doubt be used simultaneously, proactive communication and scientific support is needed to ensure safe and successful implementation of the COVID-19 vaccination strategy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>4 In dem hier vorliegenden Dokument sollen die wesentlichen Komponenten einer nationalen Impfstrategie gegen COVID-19 und die Systeme beschrieben werden, mit denen eine Impfung der Bevölkerung in Deutschland nach einheitlichen Standards und eine zeitnahe Evaluation der Impfstoffe im Zuge der breiten Anwendung gewährleistet wird.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>This document sets out the key components of a national Covid-19 vaccination strategy and describes the systems which will ensure vaccination of the German population according to uniform standards along with timely evaluation of the vaccines during their broad application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Dokument dient der Orientierung, Planung und Adressierung möglicherweise noch bestehender Lücken durch die verantwortlichen Akteure.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It serves as a guide, assists planning and allows for possible gaps that may still exist to be addressed by the responsible stakeholders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Tabelle 1 gibt eine Übersicht zu den Elementen und Akteuren der Impfstrategie.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Table 1 gives an overview of the components of and stakeholders involved in the holistic vaccination strategy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>1. Überblick COVID-19-Impfstoffe und Impfstoff-Entwicklung Die Entwicklung von Impfstoffen verläuft in verschiedenen Stufen von der explorativen und präklinischen Phase mit Testung an Labortieren über die klinischen Phasen 1, 2, und 3 mit Testung am Menschen bis zur Marktzulassung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>1. Overview: Covid-19 vaccines and vaccine development Vaccine development spans across different phases, from the explorative and pre-clinical phase with trials on laboratory animals, to clinical phases 1, 2 and 3 with trials on humans, to marketing authorisation and market introduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Nach Herstellung eines möglichen Impfstoffkandidaten im Forschungslabor wird in ersten Tier- und Zellkulturexperimenten überprüft, ob dieser neben der Verträglichkeit geeignet ist, eine Schutzwirkung gegenüber dem Zielerreger bzw. der von diesem ausgelösten Infektionskrankheit, sofern hierzu ein Tiermodell existiert, hervorzurufen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>After producing a potential vaccine candidate in the research laboratory, initial animal and cell culture experiments are conducted to assess whether, in addition to its tolerability, it is suitable for producing a protective effect against the target pathogen or the infectious disease caused by it, where an animal model exists for this purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Anschließend werden toxikologische und pharmakologische Eigenschaften in verschiedenen Tiermodellen überprüft.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Subsequently, toxicological and pharmacological properties are evaluated in various animal models.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Erst wenn es keine Bedenken hinsichtlich der Anwendung beim Menschen gibt, wird in einer ersten klinischen Prüfung die Unbedenklichkeit an Freiwilligen, gesunden Erwachsenen untersucht (Phase 1).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Only when there is no doubt as to its safety for use on humans is a first clinical trial performed to assess its safety on healthy human adult volunteers (Phase 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In den nachfolgenden klinischen Studienphasen wird die optimale Dosierung und das Impfschema in einer größeren Anzahl von Freiwilligen (mehrere hundert) überprüft (Phase 2) und anschließend in einer großen randomisierten kontrollierten klinischen Studie (Phase 3) mit mehreren tausenden Freiwilligen verschiedener Altersgruppen die Wirksamkeit und das Nebenwirkungsprofil des Impfstoffs ermittelt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the subsequent clinical trial phases, the optimal dosage and vaccination schedule are tested in a larger number of volunteers (several hundred) (Phase 2) and then the efficacy and side-effect profile of the vaccine are determined in a large, randomised, controlled clinical study (Phase 3) with several thousand volunteers from different age groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Verschiedene neuartige Impfstoffkandidaten (z. B. mRNA- und DNA-Impfstoffe) werden auf unterschiedlichen Herstellungsplattformen derzeit entwickelt und klinisch erprobt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Several novel vaccine candidates (e.g. mRNA and DNA vaccines) are currently being developed and clinically tested on different manufacturing platforms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Bundesregierung fördert die Forschung an Impfstoffen sowie deren Produktion und setzt sich für eine faire globale Verteilung von Impfstoffen im Sinne der globalen Verantwortung ein.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The Federal Government promotes vaccine research and production and, seeing it as a global responsibility, advocates fair global distribution of vaccines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In Tabelle 2 werden insbesondere die COVID-19-Impfstoffkandidaten betrachtet, für die nach aktuellem Kenntnisstand eine Marktzulassung in der EU angestrebt wird und für die eine frühzeitige Verfügbarkeit möglich sein könnte bzw. eine ausreichend große Menge an Impfstoffdosen für den Beginn einer bundesweiten Impfkampagne in priorisierten Gruppen bereitgestellt werden könnte.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Table 2 lists the Covid-19 vaccine candidates for which, according to the current status of knowledge, marketing authorisation is being sought in the EU and for which early availability may be possible or a sufficient number of vaccine doses could be made available to begin a nationwide vaccination campaign for prioritised groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>2. Zulassung von COVID-19-Impfstoffen Die Zulassung der in Tab.2 aufgeführten möglichen COVID-19 Impfstoffen für alle EUMitgliedstaaten sollte nach einem von EMA koordinierten zentralisierten Bewertungsverfahren durch die Europäische Kommission erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>2. Covid-19 vaccine approval Approval of the Covid-19 vaccine candidates listed in Table 2 for all EU member states is to be granted by the European Commission following a centralised assessment procedure coordinated by the EMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein Zulassungsverfahren dient zum Nachweis der Wirksamkeit, pharmazeutischen Qualität und Unbedenklichkeit des Impfstoffs und stellt somit sicher, dass die den Patientinnen und Patienten verabreichten Produkte von angemessener Qualität sind und ein positives Nutzen-Risiko-Verhältnis aufweisen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>An approval procedure is used to demonstrate the efficacy, pharmaceutical quality and safety of the vaccine, thus ensuring that the products administered to patients are of appropriate quality and demonstrate a positive risk-benefit ratio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Grundsätzlich besteht die Möglichkeit, dass COVID-19 Impfstoffe in einem zeitlich beschleunigten Verfahren bewertet werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It is possible that Covid-19 vaccines could be evaluated as part of an accelerated procedure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auch bei beschleunigten Zulassungsverfahren erfolgt jedoch der Nachweis der Wirksamkeit, pharmazeutischen Qualität und Unbedenklichkeit des Impfstoffs und das Nutzen-Risiko-Verhältnis muss als positiv bewertet werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>However, even under accelerated approval procedures, the efficacy, pharmaceutical quality and safety of the vaccine as well as a positive risk-benefit ratio must nonetheless be proven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Außerdem besteht die Möglichkeit einzelne Datenpakete nach deren Verfügbarkeit sofort zur Bewertung bei der EMA einzureichen („Rolling Review“).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Individual data packages may also be submitted to the EMA for evaluation as soon as they are available (rolling review).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Liegen ausreichend Daten vor, die die Qualität, Wirksamkeit und Unbedenklichkeit für eine Bewertung des Nutzen-Risiko-Verhältnisses eines Impfstoffs erlauben, empfiehlt der Ausschuss für Humanarzneimittel bei der EMA im Falle eines günstigen Nutzen-RisikoVerhältnisses dessen Zulassung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>If sufficient data is available to assess the quality, efficacy and safety of a vaccine in terms of its risk-benefit ratio, the Committee for Medicinal Products for Human Use will recommend to the EMA that it be approved if the risk-benefit ratio is favourable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auf Basis dieser Empfehlung erteilt die Europäische Kommission die europaweite Zulassung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Based on that recommendation, the European Commission grants EU-wide approval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Erste Unterlagen zur Bewertung im Rahmen von „Rolling Reviews“ wurden in der EU bereits eingereicht.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The first data packages for rolling review have already been submitted in the EU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Unter der Annahme, dass ein günstiges Nutzen-Risiko Verhältnis bestätigt werden kann, wird mit ersten Zulassungen frühestens Q1/2021 gerechnet.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Assuming that a favourable risk-benefit ratio can be confirmed, the first approvals are expected in Q1/2021 at the earliest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Paul-Ehrlich-Institut prüft die Impfstoffchargen bevor sie in Verkehr gebracht werden und erteilt die Chargenfreigabe für Deutschland gemäß § 32 des Arzneimittelgesetzes (AMG).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The Paul Ehrlich Institute tests vaccine batches before they are placed on the market and approves them for release in Germany in accordance with section 32 of the Medicinal Products Act (AMG).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>3. Impfempfehlung und Impfstoffbedarf Die am RKI angesiedelte STIKO hat als gesetzlich verankerte Kommission die Aufgabe, Impfempfehlungen für Deutschland zu erarbeiten und auszusprechen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>3. Vaccine recommendations and vaccine requirements Based at the Robert Koch Institute, the Standing Committee on Vaccination (STIKO) in its capacity as a legally established commission has the task of drawing up and issuing vaccine recommendations for Germany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Während bei der Zulassung eines neuen Impfstoffs die Sicherheit, Wirksamkeit und Qualität des jeweiligen Produkts im Vordergrund stehen, entscheidet die STIKO, wie ein zugelassener Impfstoff am sinnvollsten in der Bevölkerung zur Anwendung kommt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>While the safety, efficacy and quality of a new vaccine are the main focus of the approval process, STIKO decides how an approved vaccine can best be applied within the population.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dies geht über eine individuelle Risiko-Nutzen-Bewertung hinaus und betrifft auch potenzielle Auswirkungen auf die Bevölkerung (z.B. maximale Reduzierung an Todesfällen oder Reduzierung einer Virus-Transmission).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>This goes beyond an individual risk-benefit assessment and also takes in the potential effects on the population (e.g. maximum reduction in the number of deaths or a reduction in virus transmission) into account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Grundlage einer neuen STIKO-Impfempfehlung bildet die detaillierte und vollständige Evaluierung der verfügbaren Evidenz.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>All STIKO recommendations are based on a detailed and thorough evaluation of the available evidence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dies umfasst insbesondere Bewertungen zu Risikofaktoren (für eine Infektion oder einen schweren Krankheitsverlauf) sowie die Sicherheit und Wirksamkeit des Impfstoffs.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In particular, this includes the assessment of risk factors (for infection or serious illness) and the safety and efficacy of the vaccine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bei der Impfung gegen COVID-19 kann davon ausgegangen werden, dass initial nicht ausreichend Impfstoff zu Verfügung steht um den gesamten Bedarf zu erfüllen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>When vaccinating against Covid-19, it can be assumed that in the beginning, there will not be sufficient vaccine quantities available to meet overall needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Daher sollen prioritär zu impfende Risikogruppen (z.B. Personal in Seniorenheimen oder medizinisches Personal, Senioren, Personen mit Grunderkrankungen) definiert werden, die eine besonders hohe Vulnerabilität oder ein besonders hohes Expositionsrisiko haben oder in besonderer Weise an der Virus-Transmission beteiligt sind.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Priority should thus be given to defining risk groups (e.g. staff in residential care homes and medical staff, senior citizens, persons with existing diseases) who are especially vulnerable or have a particularly high risk of exposure or are involved in transmitting the virus in some specific way and who should be vaccinated first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Priorisierung der Gruppen erfolgt auf Grundlage von epidemiologischen und ethischen Kriterien unter Einbezug des Deutschen Ethikrats und der Leopoldina.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Prioritisation of the target groups is based on epidemiological and ethical criteria, and both the German Ethics Council and the National Academy of Sciences Leopoldina will be consulted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Eine erste Impfempfehlung ist in Vorbereitung und kann finalisiert werden, sobald Daten aus den Phase-3-Impfstoffstudien verfügbar sind.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>An initial vaccination recommendation is currently being prepared and will be finalised as soon as data is made available from the Phase 3 vaccine trials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Möglicherweise wird SARS-CoV-2 auch nach der Pandemie Erkrankungen in der Bevölkerung auslösen, so dass auch langfristig (in der Post-Pandemie-Phase) eine Impfung gegen COVID-19 notwendig sein könnte.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It is possible that SARS-CoV-2 will continue to cause illness in the population even after the pandemic, so that vaccination against Covid-19 may also be necessary in the longer term (in the post-pandemic phase).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>4. Produktion und Beschaffung Um eine ausreichende Verfügbarkeit von COVID-19-Impfstoffen in Deutschland möglichst zeitnah sicherzustellen, beschafft der Bund über einen europäischen Beschaffungsmechanismus Impfstoffe zentral.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>4. Production and procurement To ensure the timeliest availability of Covid-19 vaccines in sufficient quantities in Germany, the Federal Government procures vaccines centrally via a joint EU procurement mechanism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bei aussichtsreichen Entwicklungs- und Forschungsprojekten werden Abnahmegarantien mit Herstellern, sogenannte Advance Purchase Agreements, vereinbart.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the event of promising R&amp;D projects, advance purchase agreements are agreed with manufacturers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Abschluss dieser Vereinbarungen sichert den Bürgerinnen und Bürgern frühzeitig einen Zugang zu erfolgreich erprobten und sicheren Impfstoffen, sobald diese in der EU zugelassen sind.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>These agreements ensure that citizens have early access to successfully tested, safe vaccines as soon as they are approved for use in the EU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Gleichzeitig können Hersteller damit parallel zur wissenschaftlichen Weiterentwicklung der Impfstoffe bereits Produktionskapazitäten aufbauen; dies ermöglicht eine schnellere Lieferfähigkeit nach Zulassung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>They also enable manufacturers to build up production capacity in line with scientific development of the vaccines, allowing faster supply and delivery following approval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zum jetzigen Zeitpunkt wurde auf EU-Ebene so bereits der Zugang zu bis zu 800 Mio. Dosen für die europäische Bevölkerung von verschiedenen Herstellern gesichert.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The EU has already secured access to as many as 800 million doses for the EU population from various manufacturers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Diese Dosen werden im Verhältnis zur jeweiligen Bevölkerungszahl auf die EU Mitgliedstaaten verteilt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>These doses will be distributed to the EU member states in proportion to their respective populations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einige Impfstoffhersteller haben noch im Jahr 2020 eine mögliche erste Auslieferung von Impfstoffdosen an die EU-Mitgliedstaaten in Aussicht gestellt – unter der Voraussetzung, dass diese Impfstoffe eine Genehmigung für das Inverkehrbringen in der EU erhalten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Some vaccine manufacturers have announced that the first deliveries of vaccine doses to EU member states may be possible before the end of 2020, provided that the vaccines are authorised for marketing in the EU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>5. Verteilung, Lagerung und Logistik Ein sachgerechter und sicherer Transport ist notwendig, damit die möglichen COVID-19- Impfstoffe unbeschadet bei den zu Impfenden in allen 16 Ländern ankommen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>5. Distribution, storage and logistics Proper and safe transport is necessary to ensure that the potential Covid-19 vaccines reach those to be vaccinated in all 16 German states undamaged and intact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Besondere Anforderungen an Transport- und Lagerungsbedingungen müssen bei der Planung berücksichtigt werden: Bei bestimmten Impfstoffkandidaten (z. B. mRNA-Impfstoffen) bestehen spezielle Anforderungen an die Lagerung (z. B. Kühlkette, Temperaturen &lt; - 60°C).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>During planning, special requirements for transport and storage conditions must be taken into account: Certain vaccine candidates (e.g. mRNA vaccines) require special storage conditions (e.g. cool chain, temperatures &lt; -60°C).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es wird zudem erwartet, dass die Impfstoffe in Mehrdosenbehältnissen geliefert werden. Es ist davon auszugehen, dass benötigtes Impfzubehör (Spritzen, Kanülen) und ggf. benötigtes Lösemittel (z. B. 0,9% NaCl-Lösung) nicht im Lieferumfang enthalten sind.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It is also expected that the vaccines will be delivered in multi-dose containers and that required vaccination accessories (syringes, cannulas) and any necessary solvents (e.g. 0.9% NaCl solution) will not be included in delivery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Demzufolge sollte die Zurverfügungstellung des Impfzubehörs und ggf. erforderlichen Lösemittels durch die Länder sichergestellt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As a result, the provision of vaccination equipment and any necessary solvents should be ensured by the Länder (federal states).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die bisher durch die EU-Kommission mit den Impfherstellern abgeschlossenen Verträge sehen vor, dass die Hersteller Impfstoffdosen an zentrale Stellen in den einzelnen EU-Mitgliedstaaten liefern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The agreements the EU Commission has reached with the vaccine manufacturers so far stipulate that the manufacturers deliver vaccine doses to central locations in EU member states.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Verteilung der Impfdosen in Deutschland soll nach dem Bevölkerungsanteil des jeweiligen Bundeslandes an von den Ländern benannte Stellen erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In Germany, vaccine doses will be distributed to central locations designated by the Länder proportionate to the population of the respective state.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Um eine sichere Verteilung der Impfstoffe an die Länder zu gewährleisten, werden vom BMG derzeit unterschiedliche Möglichkeiten geprüft.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>BMG is currently examining a range of options to ensure safe distribution of the vaccines to the various Länder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>6. Organisation und Durchführung der Impfung</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>6. Organising and implementing vaccinations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aufgrund der besonderen Pandemiesituation sollen in einer ersten Phase COVID-19-Impfungen über Impfzentren, denen ggf. auch mobile Impfteams angehören sollen, durchgeführt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Given the special circumstances surrounding the pandemic, in a first phase vaccinations against Sars-CoV-2 will be carried out in vaccination centres to which mobile vaccination teams may also be assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hintergrund für diese Strategie ist, wie bereits beschrieben, die bei manchen möglichen Impfstoffen bestehenden besonderen Anforderungen an Transport und (Langzeit-)Lagerung, die Bereitstellung in Mehrdosenbehältnissen, die Priorisierungsnotwendigkeit bei anfänglich begrenzt verfügbaren Impfstoffdosen, die erwartete Verfügbarkeit unterschiedlicher Impfstoffe und die Notwendigkeit von erhöhten Steuerungsmöglichkeiten, inklusive eines zentral organisierten datengestützten Monitorings der Impfungen, im Rahmen der Pandemiebewältigung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As already mentioned, the reasons behind this approach are the special transport and (long-term) storage requirements, vaccine supply in multidose containers, the need for prioritisation in the event of initial limited availability of vaccine doses, the expected availability of different vaccines and the need for increased control measures, including centrally organised data-supported monitoring of vaccinations as a component of pandemic management.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Um unter diesen Rahmenbedingungen eine Impfkampagne kontrolliert und effizient durchführen zu können, sind zentralisierte Strukturen erforderlich.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Under these conditions, centralised structures facilitate a vaccination campaign that is controlled, efficient and effective.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Sobald es die Rahmenbedingungen erlauben und ausreichende Impfstoffmengen mit geeigneten Lagerungskonditionen zur Verfügung stehen, wird angestrebt, die Impfstoffverteilung in das Regelversorgungssystem (dezentral über Apotheken) übergehen zu lassen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>For centralised Covid-19 vaccinations, the Länder are responsible for organising and setting up the vaccination centres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für die zentralisierte COVID-19-Schutzimpfung obliegt den Ländern die Organisation der Impfzentren.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>They will set up and operate them with the support of general practitioners, in particular the Länder-level SHI-accredited physicians associations (Kassenärztliche Vereinigungen) and, where appropriate, medical staff from hospitals or other institutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Diese werden sie mit Unterstützung der niedergelassenen Ärzteschaft, insbesondere der KVen, und ggf. medizinischem Personal der Krankenhäuser oder anderen, einrichten und betreiben.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Preparation and implementation can be supported by other external stakeholders such as aid organisations, the German Armed Forces and logistics companies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Vorbereitung und Durchführung kann dabei durch weitere externe Akteure wie z.B. Hilfsorganisationen, die Bundeswehr oder Logistikunternehmen unterstützt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As soon as the conditions allow and sufficient quantities of vaccine are available with suitable storage conditions, the aim is to transfer vaccination activities to the regular supply system (decentralised via pharmacies, GPs and company doctors).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>7. Finanzierung Mögliche COVID-19-Impfstoffe sollen kostenfrei zur Verfügung gestellt werden können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>7. Financing Potential Covid-19 vaccines are to be made available free of charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Finanzierung der COVID-19-Impfung in Impfzentren soll einfach und effizient gestaltet werden, um hohe Impfquoten und eine schnelle Impfung zu erreichen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Financing of Covid19 vaccination in vaccination centres should be made simple and effective to achieve high vaccination rates and speedy vaccination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Esist vorgesehen, dass das BMG nach Anhörung der STIKO und des Spitzenverbands Bund der Krankenkassen eine Rechtsverordnung erlässt, um zu bestimmen, dass gesetzlich Versicherte und nicht gesetzlich Krankenversicherte Anspruch auf eine COVID-19-Schutzimpfung haben.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It is planned that after consulting STIKO and the German Federal Association of Health Insurance Funds (Spitzenverband Bund der Krankenkassen), BMG will issue a statutory order stating that persons with statutory health insurance and also persons without statutory health insurance are entitled to receive a Covid-19 vaccination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auf diesem Wege stellt das BMG sicher, dass ein zeitnaher Leistungsanspruch für den von der STIKO-Empfehlung umfassten Personenkreis geregelt wird.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>With this approach, BMG ensures timely access to the vaccination programme for the group of persons covered by the STIKO recommendation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Um einen schnellen Aufbau und reibungslosen, bürokratiearmen Ablauf in den Impfzentren zu fördern, soll eine pauschale Abrechnung der anfallenden, laufenden Kosten erfolgen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>To promote rapid set-up and smooth, lean-management procedures in the vaccination centres, the running costs incurred are to be invoiced in the form of a lump-sum amount.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dabei sollen die Kosten für den Aufbau und die Organisation von Impfzentren gemeinsam von den Ländern und aus Mitteln der gesetzlichen Krankenversicherung (Liquiditätsreserve des Gesundheitsfonds) sowie ggfs. der Privaten Krankenversicherung getragen werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The costs of setting up and organising vaccination centres are to be borne jointly by the Länder and using funds from the statutory health insurance funds (health fund’s liquidity reserve) and, where appropriate, the private health insurance funds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Bund stellt den Impfzentren die durch ihn beschafften Impfstoffe ohne Refinanzierung zur Verfügung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The Federal Government supplies the vaccination centres with the federally-procured vaccines without the need for refinancing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>8. Kommunikation, fachliche Fortbildung und öffentliche Aufklärung Im bisherigen Verlauf der Pandemie trugen die umfassende Kommunikation mit der Öffentlichkeit und zielgruppenspezifische Informationskampagnen wesentliche zur Akzeptanz und Umsetzung der Maßnahmen zur Pandemiebekämpfung bei (z.B. AHA-Formel für breite Öffentlichkeit oder Teststrategie für die Fachöffentlichkeit).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>8. Communication, specialist training and public information In the course of the pandemic so far, proactive communication with the public and target group-specific information campaigns have contributed significantly to both the acceptance and the implementation of measures to deal with the pandemic (e.g. the AHAformula (based on the German for “masks, hand-washing, distance”) for the general public and the testing strategy specialists).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für den Erfolg der Impfstrategie ist eine transparente, proaktive und zielgruppenspezifische Kommunikationskampagne von besonderer Wichtigkeit.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>A transparent, proactive and targeted communication campaign is of particular importance to foster the vaccination strategy’s success.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Um eine einheitliche und zielgenaue Kommunikation zu gewährleisten wird auf Bundesebene ein Steuerungskreis Kommunikation eingerichtet, welcher u.a. BMG, BZgA, PEI, RKI und beteiligte Agenturen umfasst.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>To ensure uniform and targeted communication, a federal level Communications Management Committee featuring among others, BMG, BZgA, PEI and RKI has been set up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Steuerung der Kommunikation zur Covid 19-Impfung, inkl. Ausarbeitung der Struktur und des Zeitplans, liegt in der Leitungsabteilung des BMG. Ziel ist die Koordination und Abstimmung der Gesamtmaßnahmen, inklusive der Pressearbeit, der Ansprache von Zielgruppen wie Gesundheitspersonal, vulnerable Gruppen und die breite Öffentlichkeit.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Management of communications on Covid-19 vaccination, including development of the structure and the schedule, is the responsibility of the executive level at the Ministry of Health. The aim is to coordinate and harmonise the overall measures, including PR work, addressing target groups such as healthcare staff, vulnerable groups and the general public.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dabei steht von Beginn an Transparenz im Vordergrund unter Einbeziehung von und im Austausch mit relevanten gesellschaftlichen Gruppen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>From the outset, the focus is placed on transparency and on involving and communicating with significant social groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>9. Impfquoten-Monitoring Valide Daten zur Inanspruchnahme der Impfung (Impfquoten) sind die Grundlage um das Impfverhalten und den Erfolg der begleitenden Informationskampagne zu analysieren.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>9. Vaccine rate monitoring Valid data on vaccination uptake (vaccination rates) provides the basis for analysing vaccination behaviour and the success of the accompanying information campaign.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zielgruppenspezifische Impfquoten ermöglichen so die Steuerung und Anpassung der Impfstrategie.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Information on target group-specific vaccination rates enable both management and adaptation of the vaccination strategy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wenn z.B. in bestimmten Bevölkerungsgruppen besonders geringe Impfquoten vorliegen oder große regionale Unterschiede zwischen Ländern bestehen, kann die Informationskampagne angepasst werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>For example, the information campaign can be adapted if vaccination rates are particularly low in certain population groups or if there are large regional differences between the Länder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Impfquoten dienen zudem als „Nenner“ zur Einordnung von Wirksamkeit und Sicherheit (Unterscheidung Einzelfall vs. repräsentativ basierend auf der Gesamtzahl aller Geimpften) (siehe Kapitel 10).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The vaccination rates also serve as a “common denominator” in classifying efficacy and safety (differentiating between individual cases versus representative cases based on the total number of all persons vaccinated) (see Section 10).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die für ein Impfquoten-Monitoring benötigten nicht-personenbezogenen Angaben sind: Angaben zum Impfling: Alter, Geschlecht, Wohnort (Land-/Stadtkreis), Impf-Indikation der geimpften Person  Angaben zur Impfung: Ort der Impfung, Impfdatum, Impfstoff-Produkt (Name und Chargennummer), verabreichte Impfdosis (Erste Impfung oder ggf. Folgeimpfung) Um eine zeitgerechte Analyse und Transparenz über die Durchführung der Covid-19 Impfungen gewährleisten zu können, müssen diese Daten dem RKI möglichst in Echtzeit aus den Impfzentren übermittelt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>For the purpose of vaccination rate monitoring, the following non-personal data is required:  Details concerning the person receiving the vaccine – age, gender, place of residence (Land/district), indications concerning the vaccinated person  Details concerning the vaccination – place of vaccination, date of vaccination, vaccine product (name and batch number), vaccination dose administered (first vaccination or follow-up vaccination where applicable) In order to ensure both timely analysis of and transparency in the implementation of Covid-19 vaccinations, the vaccination centres must forward this data to RKI, preferably  Establishment of a Communications Management Committee under the leadership of BMG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hierzu soll ein webbasiertes Datenportal verwendet werden, welches bis zum Beginn der Impfaktivitäten in Deutschland durch das RKI entwickelt werden soll.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Launch of the general vaccination campaign when the vaccine becomes availabie 12 in real time. A web-based data portal is to be used for this purpose. The portal is to be developed by RKI prior to the launch of the vaccination campaign in Germany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Über die digitale Echtzeit-Erfassung hinaus sollen weitere Komponenten ein integriertes Impfquoten-Monitoring in Deutschland ermöglichen (Tabelle 3).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In addition to online real-time documentation and reporting, other components will enable integrated monitoring of vaccination rates in Germany (Table 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Ergebnisse sollen in aggregierter Form weiteren Akteuren (BMG, PEI, BZgA, Länder) zur Verfügung gestellt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The outputs will be made available to other stakeholders (BMG, PEI, BzgA, the Länder) in aggregated form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>10. Surveillance:Evaluierung von Wirksamkeit und Sicherheit der COVID-19-Impfstoffe Bei der Einführung von neuen Covid-19 Impfstoffen ist eine aktive Überwachung der Effektivität und Sicherheit der/des Impfstoffprodukte(s) absolut essentiell (Surveillance).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>10. Surveillance: Evaluating the safety and efficacy of Covid-19 vaccines When new Covid-19 vaccines are introduced, active surveillance of the safety and efficacy of the vaccine product(s) is absolutely essential.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Große klinische Studien zur klinischen Wirksamkeit und Sicherheit der Impfstoffe laufen weltweit und werden für die Zulassung ausgewertet.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Large clinical trials on the clinical efficacy and safety of the vaccines are ongoing worldwide and are being evaluated for approval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Nur Impfstoffe mit dem Nachweis einer positiven Nutzen-Risiko-Bilanz werden zugelassen und kommen in die Versorgung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Only vaccines with a proven positive risk-benefit ratio will be approved and made available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aufgrund der beschleunigten Entwicklung und der begrenzten Beobachtungsdauer in den Studien ist eine kontinuierliche Überwachung und Erfassung weiterer Daten im Rahmen der breiten Anwendung erforderlich, um weitere potenzielle Risiken der Impfstoffe schnellstmöglich zu erfassen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Due to the fast development and the limited duration of observation in the trials, continuous monitoring and collection of further data during widespread use is necessary to identify any potential risks caused by the vaccines as quickly as possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Nutzen- und Risikobewertung von Impfstoffen ist ein kontinuierlicher Prozess, der von der Impfstoffentwicklung, der Durchführung klinischer Prüfungen vor der Zulassung bis hin zur Überwachung nach dem Inverkehrbringen (sogenannte post-marketing Surveillance) reicht.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Vaccine benefit and risk assessment is a continuous process ranging from vaccine development, to pre-approval clinical trials to post-marketing surveillance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Während klinische Prüfungen vor dem Inverkehrbringen wichtige Informationen über die Sicherheit und Wirksamkeit von Impfstoffen liefern, sind Untersuchungen nach dem Inverkehrbringen unerlässlich, um weitere Informationen zur Sicherheit des Impfstoffs (z.B. Auftreten seltener unerwünschter Wirkungen) in größeren und heterogeneren Bevölkerungsgruppen, die nicht in klinischen Prüfungen vor Zulassung untersucht wurden, zu erhalten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>While pre-marketing clinical trials provide important information on the safety and efficacy of vaccines, post-marketing studies are essential to obtain further information on the safety and efficacy of the vaccine (e.g. occurrence of rare adverse effects) in larger and more heterogeneous populations that have not been studied in pre-approval clinical trials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Überwachung der Effektivität, Sicherheit und auch der Schutzdauer von Impfstoffen nach dem Inverkehrbringen stellt sicher, dass das mit der Zulassung festgestellte positives Nutzen-Risiko-Profil bei breiter Anwendung laufend überprüft werden kann bzw. bei neuen Erkenntnissen Impfempfehlungen ggf. adaptiert werden können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Post-marketing surveillance of the efficacy, safety and also the duration of protection of vaccines ensures that the positive risk-benefit profile established at the time of approval can be continuously reviewed as the vaccine becomes widely used and that vaccination recommendations can be adapted where needed to reflect the new findings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>10.1. Impfeffektivität Im Rahmen der nach Infektionsschutzgesetz bestehenden Meldepflicht werden dem Robert Koch-Institut Informationen zu gemeldeten COVID-19-Fälle übermittelt, unter anderem auch zum Impfstatus.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>10.1. Vaccine efficacy As part of the reporting obligation under the Protection against Infection Act, information on reported Covid-19 cases, including the vaccination status, is transmitted to the Robert Koch Institute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Kurzfristig kann durch den Vergleich des Anteils Geimpfter unter den COVID-19 Meldefällen (Impfdurchbrüche) mit dem Anteil Geimpfter in der Bevölkerung grob die Effektivität der Impfung geschätzt werden (sog. Screening-Methode).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the short term, by comparing the proportion of vaccinated persons among the Covid-19 cases reported (breakthrough infections) with the proportion of vaccinated persons in the population, it is possible to estimate the efficacy of the vaccination (screening method).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Langfristig soll in einer Krankenhaus-basierten Fall-Kontrollstudie durch den Einschluss von COVID-19-Patienten (geimpfte und ungeimpfte Patienten) die Effektivität der in Deutschland zur Anwendung kommenden COVID-19 Impfstoffe gemessen werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the longer term, a hospital-based case-control study will be used to measure the efficacy of Covid-19 vaccines used in Germany by including Covid-19 patients (vaccinated and unvaccinated).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Spezifisch in Bezug auf den Schutz vor hospitalisierungsbedürftiger bzw. schwerer COVID-19 Erkrankung, Dauer des Impfschutzes und mit der Frage, ob es Unterschiede in Bezug auf diese Parameter zwischen den verfügbaren Impfstoffen gibt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In particular it will look at protection in exposure to hospitalised or severe cases of Covid-19 infection, the duration of protection provided and whether in relation to these parameters there are differences between the available vaccines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auch sollen Ausbrüche in speziellen Einrichtungen (z.B. der Pflege, Gemeinschaftseinrichtungen) oder im Rahmen von Veranstaltungen, in denen der Kreis der exponierten Personen gut zu definieren ist, mit einer einheitlichen Methodik und Datenerhebungsinstrumenten untersucht werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Outbreaks in special facilities (e.g. care institutions, community facilities) or at events where the group of exposed persons can be easily defined should also be investigated using a standardised methodology and data collection tools.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In solchen Settings kann im Rahmen eines retrospektiven Kohortendesigns die Impfeffektivität bestimmt werden, je nach Einrichtung gerade auch in besonders vulnerablen Gruppen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In such settings, depending on the institution involved and especially as regards particularly vulnerable groups, the efficacy of vaccination can be determined as part of a retrospective cohort study. 10.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>10.2. Impfstoff-Sicherheit Die Routine-Pharmakovigilanz erfolgt über ein etabliertes Realtime Monitoring von möglichen Nebenwirkungen bzw. Impfkomplikationen gemäß §§ 6, 8 u. 11 des Infektionsschutzgesetzes (IfSG) und § 63 c des AMG. Kurzfristig soll zudem in einer Kohortenstudie mittels Smartphone-App prospektiv über ein Jahr die Häufigkeit und Schwere unerwünschter Ereignisse sowie SARS-CoV-2-Infektionen bei geimpften Erwachsenen nachverfolgt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Vaccine safety Routine pharmacovigilance is based on established real-time monitoring of possible side effects or vaccination-related complications in accordance with sections 6, 8 and 11 of the Protection against Infection Act (IfSG) and section 63 (c) of the Medicinal Products Act (AMG) predominantly based on individual-based reporting. In the short term, a cohort study using a smartphone app will prospectively track the frequency and severity of adverse effects and of SARS-CoV-2 infections in vaccinated adults over a period of one year.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Langfristig soll in der Krankenhaus-basierten Fall-Kontrollstudie zur Untersuchung der Effektivität der Impfung bei hospitalisierten COVID-19-Patientinnen und Patienten (geimpfte und ungeimpfte, siehe 10.1) auch die Schwere des klinischen Erkrankungsverlaufs untersucht werden, und auf mögliche Hinweise gesucht werden, die auf eine Verstärkung der Erkrankung nach Impfung hindeuten könnte.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the longer term, the hospital-based case-control study to investigate the efficacy of vaccination in hospitalised Covid-19 patients (vaccinated and unvaccinated, see 10.1) will also investigate the severity of the clinical course of the infection and look for possible indications that could suggest a worsening of the infection following vaccination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Langfristig soll zudem eine Auswertung von Leistungs- und Abrechnungsdaten zur Sicherheit von COVID-19 Impfstoffen durchgeführt werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Furthermore, an evaluation of digital health data on the safety of Covid-19 vaccines will also be conducted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Genutzt werden sollen die elektronischen Daten von 4 großen Krankenkassen, die ca. 70 % der gesetzlich versicherten Personen in Deutschland abdecken.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The electronic data from four large health insurance funds, which cover about 70% of statutory insured persons in Germany, will serve as a basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Quartalsweise werden Daten zu potentiellen Risikosignalen der Phase I-III Studien und neue Risikosignale, die nach der Zulassung in der breiten Anwendung detektiert werden, untersucht.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Data on potential risk signals from Phase 1-3 studies and new risk signals detected during widespread use after approval are examined on a quarterly basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mittels Modellierung und künstlicher Intelligenz sollen jeweils Abschätzungen der Risiken für nachfolgende Quartale gemacht werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Modelling and AI methods are used to estimate the risks for subsequent quarters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bei der Konzeption ist zu prüfen, ob und ggf. wie diese Leistungs- und Abrechnungsdaten mit den bei der Impfung erfassten Angaben für diese Auswertungen verknüpft werden könnten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the design phase, an assessment should be made as to whether and, if necessary, how in order to aid these evaluations the performance and billing data could be linked with the data recorded at the time of vaccination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Schwangerensurveillance: Es soll die Sicherheit der Impfstoffe in Schwangeren als vulnerable Personengruppen untersucht werden, die zumeist nicht in klinische Prüfungen vor dem Inverkehrbringen eingeschlossen werden (Schwangerschaftskomplikationen bei kurz vor oder während der Schwangerschaft geimpften wie Abort, Früh- und Totgeburt, Eklampsie im Vergleich zu ungeimpften Schwangeren; Fetale Missbildungen, zu geringes Geburtsgewicht, postnatale Adaptationsstörungen im Vergleich zu nicht exponierten Neugeborenen).</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>To study the safety of the vaccines in the vulnerable group of pregnant women, most of whom are not included in pre-marketing clinical trials surveillance of pregnant women will be conducted (pregnancy complications in pregnant women who have been vaccinated shortly before or during pregnancy – such as abortion, premature birth, stillbirth and eclampsia, compared with unvaccinated pregnant women – fetal malformations, low birth weight, postnatal adaptation disorders compared to non-exposed newborns).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>11. Internationale Koordination und Kooperation Die SARS-CoV-2-Pandemie ist eine globale Herausforderung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>11. International coordination and cooperation The SARS-CoV-2 pandemic is a challenge of global scale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein essentieller Bestandteil der Impfstrategie ist daher auch die Koordination und Zusammenarbeit mit internationalen Partnern, um schneller effektive und innovative Lösungen zu entwickeln.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>Coordination and cooperation with international partners is thus an essential component of the vaccination strategy in order to accelerate the development of and access to effective and innovative responses and solutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Bundesministerium für Gesundheit arbeitet eng mit den Partnern in der Europäischen Union an der gemeinsamen Beschaffung von Impfstoffen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>The German Federal Ministry of Health works closely with its partners in the European Union on the joint procurement of vaccines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auch mit anderen Beteiligten findet ein regelmäßiger bilateraler und multilateraler Austausch statt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>It also maintains regular bilateral and multilateral exchange with various other stakeholders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das BMG engagiert sich aktiv in verschiedenen internationalen Foren und fördert die Zusammenarbeit zwischen Akteuren aus dem Stiftungswesen, dem privaten und öffentlichen Bereich.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>BMG is actively involved in various international forums and promotes cooperation between stakeholders from the foundation system as well as from the public and private sectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zudem leistet das BMG mit den Behörden in seinem Geschäftsbereich (RKI und PEI) Unterstützung im Sinne von internationalen Wissenstransfers.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In addition, BMG, in collaboration with the respective authorities, provides support within the boundaries of their remit (RKI and PEI) to aid the international transfer of knowledge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>So u.a. im Rahmen der folgenden Projekte und Gremienarbeit: Das RKI ist vertreten in der „Regional Working Group on COVID19 vaccination and deployment“ der WHO EURO und der “WHO/SAGE COVID-19 vaccine working group”.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>This includes, among others, the project and committee-based work outlined below. RKI is represented in the WHO/Europe Regional Working Group on Covid-19 Vaccination and Deployment and also in the WHO SAGE Working Group on Covid-19 Vaccines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Im ECDC koordinierten EU Netzwerk Nationaler Impfkommissionen führt das RKI federführend einen “living systematic review” zur Wirksamkeit und Sicherheit der COVID-19 Impfstoffe durch und unterstützt damit maßgeblich die Entscheidungsfindung zur COVID-19 Impfstrategie in anderen EU-Ländern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>In the ECDC-coordinated EU Network of National Vaccination Commissions, RKI is the lead organisation in a “living systematic review” on the efficacy and safety of the Covid-19 vaccines and thus provides key input to aid decision-making concerning the Covid-19 vaccination strategies in other EU countries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das PEI unterstützt als Kollaborationszentrum für Impfstoffe und Blutprodukte u.a. die WHO sowie regulatorische Behörden der afrikanischen Partnerländer, WHO Afro sowie regulatorische Gremien der Afrikanischen Union bei der Etablierung von Strukturen und Verfahren, um die Genehmigung und Durchführung von klinischen Studien für Arzneimittel und Impfstoffe zu fördern und eine effektive Pharmakovigilanz bei der Anwendung von Arzneimitteln aufzubauen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T151526Z">
+        <seg>As a collaboration centre for vaccines and blood products, PEI supports, among others, the WHO, the regulatory authorities in African partner countries, WHO Afro and regulatory bodies of the African Union in establishing structures and procedures to promote the approval and implementation of clinical trials for medicines and vaccines and to establish effective pharmacovigilance in the use of medical products.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
