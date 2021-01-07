@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>2020 ist etwas über uns gekommen, womit die Welt nicht gerechnet hatte.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>In 2020, our world was struck by something completely unexpected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein bis dahin unbekanntes Virus dringt in unsere Körper und unsere Leben ein.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>A previously unknown virus that has invaded our bodies and our lives.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es trifft uns da, wo wir am allermenschlichsten sind: im engen Kontakt, in der Umarmung, im Gespräch, beim Feiern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>It hits us in the places where we are most human: in close contact, in hugs, conversations, celebrations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Virus macht normales Verhalten zu einem Risiko - und ganz ungewohnte Schutzmaßnahmen normal.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>The virus turns normal behaviour into a risk – and turns previously unfamiliar protective measures into something normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>2020, dieses Jahr der Pandemie, war ein Jahr des Lernens.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>2020, this year of the pandemic, was a year of learning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir mussten im Frühjahr auf ein Virus reagieren, über das es kaum gesichertes Wissen und Informationen gab.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>In spring we had to react to a virus while having hardly any knowledge or information about it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir mussten Entscheidungen treffen, von denen wir zunächst nur hoffen konnten, dass sie sich als richtig erweisen würden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>We had to make decisions at a point when we could only hope that they would turn out to be correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Coronavirus-Pandemie war und ist eine politische, soziale, ökonomische Jahrhundertaufgabe.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>The coronavirus pandemic was and is a once-in-a-century political, social and economic challenge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Sie ist eine historische Krise, die allen viel und manchen zu viel auferlegt hat.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>It is a historic crisis that has demanded a great deal of all of us and too much of some of us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich weiß, dass es ungeheures Vertrauen und Geduld von Ihnen verlangt hat und weiter verlangt, sich auf diesen historischen Kraftakt einzulassen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>I know that mustering this historic effort has required tremendous trust and patience on your part, and continues to do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dafür danke ich Ihnen von ganzem Herzen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>For that I am sincerely grateful to you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Am Ende dieses atemlosen Jahres heißt es auch, einmal innezuhalten - und zu trauern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>At the end of this relentless year, we should also pause to catch our breath – and to mourn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir dürfen als Gesellschaft nicht vergessen, wie viele einen geliebten Menschen verloren haben, ohne ihm in den letzten Stunden nah sein zu können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>We as a society must not forget how many people lost loved ones, and were not able to be close to them in their final hours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich kann ihren Schmerz nicht lindern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>I cannot ease their pain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber ich denke an sie, gerade auch heute Abend. ...</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>But I am thinking of them this evening.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich kann nur ahnen, wie bitter es sich anfühlen muss für die, die wegen Corona um einen geliebten Menschen trauern oder mit den Nachwirkungen einer Erkrankung sehr zu kämpfen haben, wenn von einigen Unverbesserlichen das Virus bestritten und geleugnet wird.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>... - - I can only imagine how painful it must be for those who are mourning for loved ones lost to coronavirus or are themselves struggling with the lingering effects of this illness to see wilful deniers disputing the virus’s existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Verschwörungstheorien sind nicht nur unwahr und gefährlich, sie sind auch zynisch und grausam diesen Menschen gegenüber.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>Conspiracy theories are not only dangerous and untrue, they are also cynical and cruel to those who are suffering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>2020 war bestimmt von Sorge und Ungewissheit.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>2020 was a year of worry and uncertainty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zugleich war es aber auch ein Jahr, in dem so viele über sich hinausgewachsen sind, ohne das an die große Glocke zu hängen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>But it was also a year when so many went above and beyond themselves without asking any attention for it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das beweisen uns die Ärztinnen, Ärzte und Pflegekräfte in Krankenhäusern, Pflegeheimen und anderen Einrichtungen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>We have seen this in the doctors, nurses and care workers in our hospitals, nursing homes and other facilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das zeigt sich bei den Mitarbeitern der Gesundheitsämter, die so plötzlich ins Zentrum des Kampfes gegen das Virus gerückt sind.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>We have seen it in the employees of our health offices, who found themselves suddenly thrust into the centre of the battle against the virus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das sehen wir an der Einsatzfreude unserer Bundeswehr, die an allen Ecken und Enden Unterstützung leistet.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>We have seen it in the dedication of our Bundeswehr, who are providing support in every corner and at every turn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Unzählige Menschen haben dazu beigetragen, dass unser Leben trotz Pandemie weiter möglich war: in den Supermärkten und im Gütertransport, in den Postfilialen, in Bussen und Bahnen, auf den Polizeiwachen, in den Schulen und Kitas, in den Kirchen, in den Redaktionen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>Countless people have helped make it possible for our lives to go on despite the pandemic: in supermarkets and freight transport, at post offices, on buses and trains, at police stations, in schools and day-care centres, at churches, in editorial offices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich bin auch immer wieder dankbar dafür, wie diszipliniert die allermeisten Menschen ihre Masken tragen, wie sie sich um Abstand bemühen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>I am also thankful for the discipline that the vast majority of people show in wearing their masks and maintaining social distancing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Darin drückt sich für mich aus, was ein Leben in einer menschenfreundlichen Gesellschaft erst möglich macht: Rücksichtnahme auf andere, die Einsicht, sich selbst auch einmal zurückzunehmen, das Bewusstsein von Gemeinsinn.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T153244Z">
+        <seg>To me this is an expression of what makes it possible to live in a humane society in the first place: consideration for others, awareness of when to show restraint, and a sense that we are part of a larger community.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
