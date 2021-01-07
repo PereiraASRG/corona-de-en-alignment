@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein durch das Programm EXIST des Bundesministeriums für Wirtschaft und Energie gefördertes Impfprojekt entwickelt einen COVID-19 Impfstoff der zweiten Generation.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>A vaccine project funded by the EXIST programme initiated by the Federal Ministry for Economic Affairs and Energy is developing a second generation Covid-19 vaccine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Start-up „Prime Vector Technologies – PVT" aus Tübingen konnte damit unter Beweis stellen, wie wissenschaftliches Potential in Deutschland genutzt werden kann.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>The “Prime Vector Technologies - PVT” start-up from Tübingen is engaged in a successful demonstration of Germany’s scientific capabilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit dieser neuen Generation an Impfstoffen werden die zwischenzeitlich am weitesten verbreiteten SARS-CoV-2-Varianten direkt adressiert.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>This new generation of vaccines directly addresses the most common SARS-CoV-2 variants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zudem werden neben einer möglichst starken und breiten Antikörper-basierten Immunantwort SARS-CoV-2-spezifische T-Zellen gebildet.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>In addition to stimulating the strongest and broadest possible antibody-based immune response to the SARS-CoV-2 virus, it creates specific T-cells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Damit wird auch der Schutz bei etwaigen Mutationen des Virus erhöht.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>This also increases the protection against potential virus mutations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein weiteres erklärtes Ziel für die nächste Generation an Impfstoffen ist die Bereitstellung einer geeigneten Auffrischimmunisierung sobald die Antikörperantwort bei COVID-19 erkrankten oder immunisierten Menschen abfällt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>Another goal stated for the new vaccine generation is to provide a suitable booster immunisation when the antibody response drops in COVID-19 patients or immunised people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bundeswirtschaftsminister Peter Altmaier zeigt sich über die aktuelle SARS-CoV-2 Impfstoffentwicklung hoch erfreut und erklärt: „Deutschland ist mit dem EXIST geförderten Impfstoffprojekt von Prime Vector Technologies ganz vorn mit dabei bei der Entwicklung von Impfstoffen der zweiten Generation.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>Federal Minister Altmaier is delighted by the latest stage of the development of the SARS-CoV-2 vaccine and explains: “Germany and its Prime Vector Technologies vaccine project funded by EXIST is at the forefront of development of second-generation vaccines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das freut uns sehr, denn Forschung und Innovationen sind zentral im Kampf gegen COVID-19."</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>We are very pleased with this, because research and innovation are crucial in the fight against COVD-19”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Durch eine erneute Aufstockung von 18 Millionen Euro unterstützt das BMWi das EXIST Gründungsvorhaben, den in Tübingen entwickelten Impfstoffkandidaten im Rahmen der ersten zwei klinischen Phasen am Menschen zu untersuchen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>With a further increase of €18 million, the Federal Ministry for Economic Affairs and Energy is supporting the start-up project as it tests the vaccine candidate in humans in the first two clinical phases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Impfstoffkandidat von PVT könnte gegen Ende 2021 in den Zulassungsprozess kommen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>The licensing process for the PVT vaccine candidate could start at the end of 2021.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit Herrn Prof. Dr. Peter Kremsner, Leiter einer EU-Impfstoffstudie am Universitätsklinikum Tübingen, hat sich ein renommierter Experte positiv über den polyvalenten COVID-19 Impfstoffkandidaten geäußert. „Mit dem Impfstoffkandidaten der EXIST-Ausgründung PVT stärkt das Uniklinikum Tübingen seine Stellung als eines der weltweiten Zentren in der COVID-19-Impfstoffentwicklung", so Prof. Dr. Kremsner. Auch international trifft das neuartige Impfstoffkonzept auf breite Aufmerksamkeit.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>Professor Dr Peter Kremsner, a renowned expert and head of an EU vaccine study at Tübingen University Hospital welcomed the polyvalent COVID-19 vaccine, saying: “The introduction by the EXIST spin-off PVT of this vaccine candidate strengthens the position of Tübingen University Hospital as one of the world centres for COVID-19 vaccine development.” The new vaccine is also at the centre of international attention. A South East Asian pharmaceutical company, for instance, would be very interested in acquiring a licence for it and starting large-scale vaccine production in 2021.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>So hat ein südostasiatisches Pharmaunternehmen sehr großes Interesse an einer Lizensierung, mit dem Ziel einer großtechnischen Impfstoffproduktion in 2021. Für die Versorgung der deutschen Bevölkerung hat das BMWi die lizenzkostenfreie Bereitstellung von Impfstoffdosen bei PVT gesichert.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>To supply the German population, the Federal Ministry for Economic Affairs and Energy has already secured a licence-free provision of PVT vaccine doses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit dem Programm EXIST „Existenzgründungen aus der Wissenschaft" fördert das BMWi seit 20 Jahren erfolgreich Start-up-Ausgründungen aus der deutschen Hochschul- und Wissenschaftslandschaft.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>For the last 20 years, the Federal Ministry for Economic Affairs and Energy has been successfully using the “EXIST– Business start-ups in science” programme to fund start-up spin-offs from German universities and science.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für nähere Informationen zu den drei Programmlinien von EXIST finden Sie hier.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135203Z">
+        <seg>For further information about the funding programmes click here.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

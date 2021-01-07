@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Coronakrise spaltet den Kontinent.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The corona crisis is dividing the continent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber es gibt auch Hoffnung: In den Beitrittsgesprächen auf dem Balkan zeigt die EU ihre Stärken. Das vereinte Europa steht vor seiner größten Bewährungsprobe. Die Coronakrise hat den Kontinent hart getroffen und verschärft die Debatte um einen solidarischen Lastenausgleich zwischen Norden und Süden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>However, there is also hope, as the EU is demonstrating its strengths in the accession negotiations in the Western Balkans. The united Europe is facing the greatest challenge in its history. The corona crisis has dealt a severe blow to the continent and exacerbated the debate on fair burden-sharing between north and south.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch es gibt auch gute Nachrichten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>However, there is also good news.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Kürzlich hat die EU Albanien und Nordmazedonien grünes Licht für die Aufnahme von Beitrittsgesprächen gegeben.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The EU recently gave Albania and North Macedonia the go-ahead for the opening of accession negotiations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das war kein Selbstläufer, wir mussten viel Überzeugungsarbeit leisten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>This was not a matter of course. We had to work hard to make this happen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch Europa wird davon profitieren, gerade in diesen dramatischen Zeiten, in denen das Coronavirus zum beispiellosen Stresstest wird.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>But Europe will benefit, particularly at this dramatic time when we face an unparalleled stress test because of the coronavirus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Denn bei aller notwendigen Konzentration auf das Krisenmanagement dürfen wir unsere geopolitischen Interessen gerade jetzt nicht vergessen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Despite all the necessary focus on crisis management, we must not forget our geopolitical interests, especially now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Startsignal für Skopje und Tirana ist mehr als verdient: Beide Länder haben Großes geleistet, eine ambitionierte Reformagenda konsequent bearbeitet und sich durch Rückschläge nicht beirren lassen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The lift-off for Skopje and Tirana is richly deserved. Both countries have made impressive progress, constantly worked on an ambitious reform agenda and refused to allow themselves be thrown off course by setbacks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Albanien hat eine beispiellose Justizreform auf den Weg gebracht.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Albania has launched unprecedented judicial reform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Nordmazedonien hat zusätzlich zu großen Reformen zur Stärkung von Demokratie und Rechtsstaatlichkeit mit der Lösung des Namensstreits mit Griechenland im besten Sinne des Wortes Geschichte geschrieben.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>In addition to its major reforms on strengthening democracy and the rule of law, North Macedonia made history in the best sense of the word by resolving the dispute on its name with Greece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Daher ist unsere Entscheidung richtig.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>That is why our decision is right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir senden damit eine wichtige Botschaft in die gesamte Region: Auf die EU ist Verlass.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>It sends an important message to the entire region, namely that it can rely on the EU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Reformanstrengungen lohnen sich ebenso wie schmerzhafte Kompromisse zur Konfliktlösung und Versöhnung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>It shows that reform efforts and painful compromises to resolve conflicts and achieve reconciliation are worthwhile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und: Die EU steht zu ihrem Wort!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>And it proves that the EU stands by its word!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Demokratie und Rechtsstaatlichkeit gehören zum Wesen der EU</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Democracy and the rule of law are at the heart of the EU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Demokratie und Rechtsstaatlichkeit gehören zum Wesenskern der europäischen Idee.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Democracy and the rule of law are at the heart of the European idea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit der neuen Beitrittsmethodik der EU legen wir einen noch stärkeren Schwerpunkt auf nachhaltige Reformen in diesen zentralen Bereichen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The EU’s new accession methods put an even greater focus on lasting reforms in these key sectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es dürfte auch von Vorteil sein, dass die EU-Mitgliedstaaten fortan noch mehr Verantwortung für die Beitrittsverfahren übernehmen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The fact that EU member states will take on even more responsibility for the accession process from now on is likely to prove beneficial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es bleibt dabei:</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>One thing remains unchanged -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Weg zum EU-Beitritt ist an klare Bedingungen geknüpft.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>the path to EU accession is coupled with clear conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Von einem „Beitrittsautomatismus“, den manch einer befürchtet, kann nicht die Rede sein.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>There is certainly no such thing as “automatic accession”, as some people fear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es geht vielmehr um die erste Etappe eines beschwerlichen Wegs, der noch Jahre in Anspruch nehmen dürfte.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Instead, we are talking about the first stage of an arduous path that is likely to take years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auf diesem Weg werden wir Albanien und Nordmazedonien eng begleiten und tatkräftig unterstützen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>We will guide and actively support Albania and North Macedonia on this path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Eine möglichst enge Anbindung der Region liegt nicht nur im Interesse der Staaten des Westlichen Balkans, sondern auch in unserem ureigenen strategischen Interesse.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Not only is it in the Western Balkans’ interests to have very close ties with the EU, it is also in our own key strategic interests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die EU muss sich in der Region noch viel stärker engagieren, muss viel sichtbarer werden.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The EU needs to significantly step up its engagement and raise its profile in the region.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ansonsten stoßen andere Mächte, die sich um unsere Werte wenig scheren, in diese Lücken hinein.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>If it does not do so, other powers that care little for our values will move in to fill these gaps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das dürfen wir nicht zulassen. Denn der Westliche Balkan ist der Innenhof Europas.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>We cannot allow that to happen because the Western Balkans are Europe’s inner courtyard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für uns alle steht langfristig viel auf dem Spiel: Es geht nicht zuletzt um Frieden, Versöhnung und Stabilität in der Region und in ganz Europa.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>In the long term, a great deal is at stake for us all, not least peace, reconciliation and stability in the region and in Europe as a whole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Coronakrise und die damit einhergehenden Entbehrungen führen uns gerade die Errungenschaften und den Wert Europas – vor allem unserer Freiheit und Freizügigkeit – in schmerzhafter Weise vor Augen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The corona crisis and the deprivations it brings are a painful reminder of what Europe has achieved and what it offers, in particular our liberty and freedom of movement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>EU muss Handlungs- und Entscheidungsfähigkeit zeigen</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The EU must remain capable of taking action and making decisions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das „Ja“ für Beitrittsverhandlungen mit Nordmazedonien und Albanien ist in Zeiten dieses kollektiven Stresstests umso wichtiger.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The go-ahead for accession negotiations with North Macedonia and Albania is all the more important now, when we face a collective stress test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir machen deutlich: Trotz einer dramatischen Krise historischen Ausmaßes bleibt die EU handlungs- und entscheidungsfähig.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>We are showing clearly that the EU remains capable of taking action and making decisions despite a dramatic crisis of historic proportions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und wir verlieren auch in Krisenzeiten unsere strategischen Interessen nicht aus den Augen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>And even at a time of crisis, we are not losing sight of our strategic interests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Schon jetzt müssen wir die „Post-Corona-Welt“ mitdenken.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>We need to think now about a “post-corona world”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Diese Welt wird eine andere sein.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>This world will be different.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und Corona wird auch unser Europa nachhaltig verändern.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>And corona will permanently change our Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Umso wichtiger, dass wir nun entscheidende Weichen stellen und damit eine glasklare Botschaft senden: Die Zukunft des Westlichen Balkans liegt in der EU!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>It is all the more important that we choose the right course, thus leaving absolutely no one in doubt that the future of the Western Balkans is in the EU!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Im Hier und Jetzt ist körperliche Distanz – oder Neudeutsch: „social distancing“ – zur Eindämmung der Pandemie das Gebot der Stunde.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Right now, social distancing is vital to curb the pandemic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch in der Politik brauchen wir gerade jetzt das genaue Gegenteil: Die EU-Partner müssen noch enger zusammenrücken und im Team spielen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>But in politics, we need the exact opposite, especially now. EU partners must become even closer and play as a team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Denn nur gemeinsam können wir diese beispiellose Bewährungsprobe bewältigen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>This is essential because we can only overcome this unparalleled challenge by working together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Nationale Befindlichkeiten, europäischen Kleinmut und zögerliches Handeln können wir uns nicht leisten.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>We cannot afford national sensitivities or procrastination when it comes to taking action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Denn Corona schert sich nicht um Grenzen und nationale Egoismen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Borders and national egoism are a matter of supreme indifference to the virus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und einige Staaten sind dringend auf unsere Unterstützung angewiesen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>And some countries, including those of the Western Balkans, urgently need our assistance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dazu gehört auch der Westliche Balkan. Als EU haben wir dort eine besondere Verantwortung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>As the EU, we have a special responsibility to the region and that is why we are currently mobilising immediate support for it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Daher mobilisieren wir gerade kurzfristige Unterstützung für die Region.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>Let us take this opportunity to show what European solidarity means, including in our inner courtyard!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Nutzen wir die Chance, auch in unserem Innenhof zu zeigen, was europäische Solidarität heißt!</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>The people of the region must feel that they can count on us, both during the corona crisis and on their path to EU accession.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Bürgerinnen und Bürger der Region müssen spüren: Sie können auf uns zählen – sowohl in der Coronakrise als auch auf ihrem Weg in die EU. Dabei bieten wir – anders als China, Russland oder die Türkei – Demokratie und Rechtsstaatlichkeit, Freiheit und Menschenrechte, Wohlstand und regionale Versöhnung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>And unlike China, Russia or Turkey, we offer democracy, the rule of law, freedom, human rights, prosperity and regional reconciliation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Genau diese Werte machen Europa so kostbar und einzigartig.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T141305Z">
+        <seg>It is these values that make Europe so precious and unique.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Parlamentarische Staatssekretär beim Bundesminister für Wirtschaft und Energie und Tourismusbeauftragter der Bundesregierung, Thomas Bareiß, leitet heute den informellen Austausch der für Tourismus zuständigen Ministerinnen und Minister der EU per Videokonferenz.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>Thomas Bareiß, Parliamentary State Secretary at the Federal Ministry for Economic Affairs and Energy and Federal Government Commissioner for Tourism, is chairing the informal exchange via video conference of EU Ministers responsible for tourism today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Im Mittelpunkt der Videokonferenz steht der Erfahrungsaustausch zu den Auswirkungen der Corona-Pandemie auf die Tourismuswirtschaft und die damit verbundenen Herausforderungen für die europäische Tourismuspolitik.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>The focus of the video conference is on an exchange of views on the impact of the COVID-19 pandemic on the tourism sector and the related challenges for European tourism policy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Parlamentarische Staatssekretär Thomas Bareiß: „Die Tourismusbranche ist von den Auswirkungen der Corona-Pandemie so hart getroffen wie kaum ein anderer Wirtschaftszweig in Europa.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>Parliamentary State Secretary Thomas Bareiß said: “The tourism industry is particularly badly affected by the COVID-19 pandemic, more than almost any other sector of the economy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit den EU-Tourismusministern werde ich heute erörtern, wie wir die akuten Folgen der Corona-Pandemie bewältigen und den Tourismus für die Zukunft robuster aufstellen können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>Today, I will talk with the EU Ministers responsible for tourism about how we can tackle the severe consequences of the COVID-19 pandemic and make the tourism sector more resilient for the future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Insbesondere geht es darum, wie wir private und geschäftliche Reisen in Europa wieder stärker möglich machen können.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>In particular, we want to make more private and business trips in Europe possible again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Natürlich steht die Gesundheit im Vordergrund.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>The health aspect of course has priority for us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Unser Ziel ist es aber, Reisebeschränkungen auf das notwendige Maß zu begrenzen und den Menschen in Europa wieder eine möglichst große Reisefreiheit zu ermöglichen, ohne dabei den Gesundheitsschutz zu vernachlässigen.“</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>But we still want to limit travel restrictions to what is necessary and permit the freedom to travel for people in Europe as far as possible without neglecting health protection.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Tourismussektor ist ein bedeutender Wirtschaftsfaktor in der EU, der auch auf andere Bereiche ausstrahlt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>Tourism is an important driver of economic growth in the EU, and its impact extends to other sectors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Über 12 Prozent der Menschen in Europa lebten vor der Krise vom Tourismus, direkt und indirekt wurden 10 Prozent des Bruttoinlandsprodukts der EU durch Tourismus erwirtschaftet.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135944Z">
+        <seg>Before the crisis, more than 12% of Europe’s inhabitants depended on tourism for their livelihood, and 10% of the EU’s gross domestic product was directly or indirectly generated by the tourism industry.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

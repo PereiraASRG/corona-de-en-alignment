@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bundeswirtschaftsminister Peter Altmaier hat heute zu einer hochrangigen virtuellen Konferenz zur Zukunft der europäischen Kohäsions- und Strukturpolitik eingeladen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>Economic Affairs Minister Peter Altmaier has invited participants to a high-level virtual conference today on the future of European cohesion and structural policy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zentrales Thema ist deren Rolle zur Bewältigung der Corona-Krise.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>The central issue is the role the policy can play in tackling the coronavirus crisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Teilnehmer sind neben Bundeswirtschaftsminister Altmaier der Ministerpräsident von Sachsen-Anhalt, Reiner Haseloff, die sächsische Europaministerin Katja Meier, die Kohäsionsministerinnen und -minister der Mitgliedstaaten, die EU-Regionalkommissarin Elisa Ferreira, Mitglieder des Europäischen Parlaments - der Vorsitzende des Ausschusses für regionale Entwicklung Younous Omarjee, die Ko-Berichterstatter für die Dachverordnung zur Kohäsionspolitik Andrey Novakov und Constanze Krehl - sowie Vertreterinnen und Vertreter des Europäischen Wirtschafts- und Sozialausschusses.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>In addition to Minister Altmaier, the participants include Reiner Haseloff, Minister-President of Saxony-Anhalt, Saxony’s Europe Minister Katja Meier, the ministers for cohesion policy of the EU Member States, EU Regional Commissioner Elisa Ferreira, Members of the European Parliament – Younous Omarjee, the chair of the Committee for Regional Development, Andrey Novakov and Constanze Krehl, the co-rapporteurs on the main cohesion policy regulation – and representatives of the European Economic and Social Committee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die ursprünglich mit den Ländern Sachsen-Anhalt und Sachsen gemeinsam in Halle /Saale geplante Konferenz wird pandemiebedingt nun als virtuelle Konferenz durchgeführt.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>Due to the pandemic, the conference, which was originally to be held together with Saxony-Anhalt and Saxony in Halle (Saale) is now taking place online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bundeswirtschaftsminister Altmaier: „Raus aus der Krise kommen wir nur mit einem starken Europa.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>Economic Affairs Minister Altmaier said: “We need a strong Europe in order to emerge from this crisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dabei spielen gerade die Regionen, Städte und Kommunen Europas eine entscheidende Rolle.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>A crucial role here is played by the regions, town and cities and municipalities around Europe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die zusätzlichen europäischen Kohäsionsmittel sind ein wichtiges Signal, um die Innovationskraft und Wettbewerbsfähigkeit der Regionen zu stärken.“</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>The additional European cohesion funding sends out an important signal to help strengthen the innovative strength and competitiveness of the regions.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Mitglieder des Europäischen Parlaments haben in ihren Beiträgen die Rolle der Strukturpolitik für die europäischen Regionen gewürdigt und betonten, dass keine Stadt und keine Region im Stich gelassen werden dürfe.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>The statements by the Members of the European Parliament highlighted the importance of structural policy for Europe’s regions and stressed that no town or city, no region can be left behind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>EU-Regionalkommissarin Elisa Ferreira hob die Chancen der zur Verfügung gestellten Instrumente für einen innovativen und grünen Wandel hervor: „Mit den zusätzlichen europäischen Kohäsionsmitteln in Höhe von 47 Milliarden Euro leisten wir einen wichtigen Beitrag zum Wiederaufbau nach der Krise.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>EU Regional Commissioner Elisa Ferreira flagged up the opportunities offered by the instruments for an innovative and green transition: “The additional European cohesion fund of €47 billion makes an important contribution towards rebuilding after the crisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es bedarf kohärenter und langfristiger Strategien, die den grünen und digitalen Wandel rasch auf den Weg bringen und an die Bedarfe und Potenziale vor Ort angepasst sind.“</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>We need coherent and long-term strategies which rapidly trigger the green and digital transition and which are adapted to the local needs and potential.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Ministerpräsident von Sachsen-Anhalt, Reiner Haseloff: „Sachsen-Anhalt steht hinsichtlich des Wandels hin zu einer klimaneutralen Wirtschaft und Gesellschaft sowie bezüglich der Digitalisierung und der demografischen Entwicklung vor großen Herausforderungen.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>Reiner Haseloff, Minister-President of Saxony-Anhalt, added: “Saxony-Anhalt is facing great challenges as it moves to a climate-neutral economy and society and in view of digitisation and demographic development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit Hilfe der EU-Strukturfonds und unterstützt durch die Initiative REACT-EU und den Fonds für den gerechten Übergang (JTF) wird es gelingen, Sachsen-Anhalt und den gesamten mitteldeutschen Raum zu einer innovativen, klimaneutralen Zukunftsregion zu gestalten.“</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>With backing from the EU structural funds and support from the REACT-EU initiative and the Just Transition Fund, we can succeed in transforming Saxony-Anhalt and the entire central German region into an innovative, climate-neutral and forward-looking region.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die sächsische Europaministerin Meier betonte: „Selten zuvor wurde die EU-Kohäsionspolitik so sehr benötigt wie zur Bewältigung der Corona-Pandemie und Erreichung der europäischen Klimaziele.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>Saxony’s Minister for Europe, Katya Meier, said: “It is not often that we have needed EU cohesion policy as much as we do now, in order to cope with the Covid-19 pandemic and to attain the EU’s climate targets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Als regional verankerte zusätzliche Instrumente leisten EU-Strukturfonds und JTF einen erheblichen Beitrag zur Krisenbewältigung sowie für Wachstum und Beschäftigung.</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>As additional regionally based instruments, the EU structural funds and the JTF make a substantial contribution to tackling the crisis and to growth and employment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das gilt gerade für Regionen wie Sachsen, die in besonderer Weise vom Strukturwandel betroffen sind.“</seg>
+      </tuv>
+      <tuv xml:lang="en" creationid="OmegaT Aligner" creationdate="20210107T135736Z">
+        <seg>This is especially true of regions like Saxony, which are particularly affected by structural change.”</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
